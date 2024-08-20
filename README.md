@@ -1,0 +1,1 @@
+In my Teaching Game I have built a mini 2D RPG Game which needs more work and needs more added Non-Playable Characters in it. My initial goal was to make a RPG Game where you could interact and play various mini games through it.
